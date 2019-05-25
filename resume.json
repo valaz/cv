@@ -1,0 +1,170 @@
+{
+  "selectedTemplate": 9,
+  "headings": {
+    "skills": "Skills",
+    "projects": "Projects",
+    "awards": "",
+    "education": "Education",
+    "work": "Work Expereince"
+  },
+  "basics": {
+    "name": "Azat Valiev",
+    "phone": "+79150565534",
+    "website": "valiev.top",
+    "location": {
+      "address": "Moscow, Russia"
+    },
+    "email": "azat@valiev.top"
+  },
+  "education": [
+    {
+      "institution": "Moscow Institute of Physics and Technology",
+      "startDate": "Sep 2010",
+      "endDate": "Jun 2014",
+      "studyType": "Bachelor of applied mathematics and physics",
+      "location": "Dolgoprudny, Russia"
+    },
+    {
+      "institution": "Moscow Institute of Physics and Technology",
+      "location": "Dolgoprudny, Russia",
+      "studyType": "Master of banking information technologies",
+      "startDate": "Sep 2014",
+      "endDate": "Jun 2016"
+    }
+  ],
+  "work": [
+    {
+      "highlights": [
+        "Develop trading/quoting connectivity module",
+        "Develop server/ui trading applications",
+        "Support legacy components",
+        "Prod/SL3 support",
+        "Languages: Java, C#, SQL",
+        "Tools: IntelliJ IDEA, Rider, Maven, Tomcat, Gradle, Jenkins, Teamcity, Bitbucket, Confluence, Jira, Artifactory"
+      ],
+      "company": "Deautche Bank Technology Center",
+      "position": "Java Developer",
+      "location": "Moscow, Russia",
+      "startDate": "Sep 2017",
+      "endDate": "Present"
+    },
+    {
+      "highlights": [
+        "Develop new functionality for reservation Java module",
+        "Managed servers for testing modules functionality via Hyperic HQ, Bash scripts",
+        "Implemented data migration from legacy system",
+        "Languages: Java, SQL",
+        "Tools: IntelliJ IDEA, Maven, Tomcat, Jenkins, Bitbucket, Confluence, Jira, Nexus"
+      ],
+      "company": "Sberbank Technologies",
+      "position": "Junior software engineer",
+      "location": "Moscow, Russia",
+      "startDate": "Oct 2014",
+      "endDate": "Aug 2017"
+    },
+    {
+      "highlights": [
+        "Fixed old JavaScript functionality",
+        "Realized CSS sprites",
+        "Created web layout with HTML/CSS",
+        "Created new JS functionalities (notifications, validations)",
+        "Languages: JavaScript, HTML/CSS",
+        "Tools: IntelliJ IDEA, AJAX, jQuery, Grunt"
+      ],
+      "company": "Sitterland.ru",
+      "position": "Remote frontend developer",
+      "location": "Moscow, Russia",
+      "startDate": "Jul 2016",
+      "endDate": "Oct 2016"
+    },
+    {
+      "location": "Moscow, Russia",
+      "position": "Improver",
+      "website": "",
+      "startDate": "Nov 2013",
+      "endDate": "Oct 2014",
+      "highlights": [
+        "Researching time series, analyzing breakdowns in multidimensional series",
+        "Used different approaches to find breakdowns",
+        "Used multiple hypothesis testing",
+        "Languages: Java, R",
+        "Tools: Eclipse, R studio"
+      ],
+      "company": "Yandex Data Factory"
+    }
+  ],
+  "skills": [
+    {
+      "level": "",
+      "keywords": [
+        "Java",
+        "Spring",
+        "SQL",
+        "R"
+      ],
+      "name": "Backend"
+    },
+    {
+      "keywords": [
+        "Javascript",
+        "CSS",
+        "HTML",
+        "ReactJS"
+      ],
+      "name": "Frontend"
+    },
+    {
+      "keywords": [
+        "Flutter",
+        "Dart"
+      ],
+      "name": "Mobile"
+    },
+    {
+      "keywords": [
+        "Maven",
+        "NPM",
+        "Tomcat",
+        "Teamcity/Jenkins",
+        "Artifactory",
+        "Confluence",
+        "Jira",
+        ""
+      ],
+      "name": "Tools"
+    }
+  ],
+  "projects": [
+    {
+      "description": "Web application for creating progress charts and controlling progress",
+      "keywords": [
+        "Java",
+        "Spring Boot",
+        "React JS",
+        "Javascript",
+        "SonarCloud",
+        "Dokku",
+        "Travis.ci"
+      ],
+      "name": "Grafeo",
+      "url": "https://grafeo.pro"
+    }
+  ],
+  "awards": [
+    {
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "work",
+    "projects",
+    "awards",
+    "skills",
+    "education"
+  ]
+}
