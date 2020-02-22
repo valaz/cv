@@ -35,12 +35,25 @@
   "work": [
     {
       "highlights": [
-        "Develop trading/quoting connectivity module",
-        "Develop server/ui trading applications",
-        "Support legacy components",
+        "Developed solution to easily run cloud instances in AWS, GCP, OCI.",
+        "Implemented full monitoring of instances performance",
+        "Invented framework to run benchmarks of specific software on any cloud instance type",
+        "Languages: Groovy, Bash, Python",
+        "Tools: Jenkins, Grafana, Graphite, IngluxDB, collectd, Telegraf"
+      ],
+      "company": "RocketCompute",
+      "position": "Backend Developer & DevOps Engineer",
+      "location": "Moscow, Russia",
+      "startDate": "Jul 2019",
+      "endDate": "Present"
+    },
+    {
+      "highlights": [
+        "Developed connectivity module (bugs fixes, new API features support, new quoting/trading flow implementation)",
+        "Supported and developed new features in all Sales-Trader-Workflow applications using Java, C#, TypeScript",
         "Prod/SL3 support",
-        "Languages: Java, C#, SQL",
-        "Tools: IntelliJ IDEA, Rider, Maven, Tomcat, Gradle, Jenkins, Teamcity, Bitbucket, Confluence, Jira, Artifactory"
+        "Languages: Java, TypeScript, C#, SQL",
+        "Tools: IntelliJ IDEA, Rider, WebStorm, Maven, Tomcat, Gradle, Jenkins, Teamcity, Bitbucket, Confluence, Jira, Artifactory"
       ],
       "company": "Deautche Bank Technology Center",
       "position": "Java Developer",
@@ -50,9 +63,9 @@
     },
     {
       "highlights": [
-        "Develop new functionality for reservation Java module",
-        "Managed servers for testing modules functionality via Hyperic HQ, Bash scripts",
-        "Implemented data migration from legacy system",
+        "Developed Java Module for the new Sberbank Reservation System",
+        "Implemented migration protocol to move data from legacy system to the new one",
+        "Developed web application to monitor migration process statistics",
         "Languages: Java, SQL",
         "Tools: IntelliJ IDEA, Maven, Tomcat, Jenkins, Bitbucket, Confluence, Jira, Nexus"
       ],
@@ -64,11 +77,11 @@
     },
     {
       "highlights": [
-        "Fixed old JavaScript functionality",
-        "Realized CSS sprites",
+        "Written new web pages",
+        "RImplemented new JS functionality (notifications, validations). Improved legacy JS code",
         "Created web layout with HTML/CSS",
-        "Created new JS functionalities (notifications, validations)",
-        "Languages: JavaScript, HTML/CSS",
+        "Fixed HTML layout issues. Fully applied CSS sprites for the whole site",
+        "Languages: JavaScript, CSS. HTML",
         "Tools: IntelliJ IDEA, AJAX, jQuery, Grunt"
       ],
       "company": "Sitterland.ru",
@@ -79,14 +92,13 @@
     },
     {
       "location": "Moscow, Russia",
-      "position": "Improver",
+      "position": "Intern",
       "website": "",
       "startDate": "Nov 2013",
       "endDate": "Oct 2014",
       "highlights": [
-        "Researching time series, analyzing breakdowns in multidimensional series",
-        "Used different approaches to find breakdowns",
-        "Used multiple hypothesis testing",
+        "Researched multidimensional time series to detect breakdowns and series correlation",
+        "Applied different approaches and hypothesis tests for investigation",
         "Languages: Java, R",
         "Tools: Eclipse, R studio"
       ],
@@ -100,7 +112,9 @@
         "Java",
         "Spring",
         "SQL",
-        "R"
+        "R",
+        "Bash",
+        "Groovy"
       ],
       "name": "Backend"
     },
@@ -109,7 +123,8 @@
         "Javascript",
         "CSS",
         "HTML",
-        "ReactJS"
+        "ReactJS",
+        "npm"
       ],
       "name": "Frontend"
     },
@@ -125,23 +140,28 @@
         "Maven",
         "NPM",
         "Tomcat",
-        "Teamcity/Jenkins",
+        "Teamcity & Jenkins",
         "Artifactory",
         "Confluence",
         "Jira",
-        ""
+        "AWS/GCP/OCI",
+        "Grafana",
+        "Grafana",
+        "Graphite",
+        "InfluxDB",
+        "collectd",
+        "Telegraf"
       ],
       "name": "Tools"
     }
   ],
   "projects": [
     {
-      "description": "Web application for creating progress charts and controlling progress",
+      "description": "Web application for creating progress charts and controlling habits evolution.",
       "keywords": [
         "Java",
         "Spring Boot",
         "React JS",
-        "Javascript",
         "SonarCloud",
         "Dokku",
         "Travis.ci"
@@ -161,10 +181,10 @@
   "sections": [
     "templates",
     "profile",
+    "education",
     "work",
-    "projects",
-    "awards",
     "skills",
-    "education"
+    "projects",
+    "awards"
   ]
 }
