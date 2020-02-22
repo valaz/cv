@@ -1,3 +1,4 @@
 # deployment keys
 .travis/*.key
 .travis/*.key.pub
+/.idea/**
