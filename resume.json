@@ -39,7 +39,7 @@
         "Implemented full monitoring of instances performance",
         "Invented framework to run benchmarks of specific software on any cloud instance type",
         "Languages: Groovy, Bash, Python",
-        "Tools: Jenkins, Grafana, Graphite, IngluxDB, collectd, Telegraf"
+        "Tools: Jenkins, Grafana, Graphite, InfluxDB, collectd, Telegraf"
       ],
       "company": "RocketCompute",
       "position": "Backend Developer & DevOps Engineer",
