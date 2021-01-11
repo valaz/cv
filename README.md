@@ -1,3 +1,3 @@
 # cv
 
-Used plain html and https://latexresu.me/ for pdf version
+Used plain html and https://latexresu.me/ for latex/pdf version
