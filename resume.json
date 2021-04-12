@@ -35,9 +35,9 @@
   "work": [
     {
       "highlights": [
-        "Developed solution to easily run cloud instances in AWS, GCP, OCI.",
-        "Implemented full monitoring of instances performance",
-        "Invented framework to run benchmarks of specific software on any cloud instance type",
+        "Developed solution for launching cloud instances in AWS, GCP, OCI.",
+        "Implemented system for full monitoring of instances' performance.",
+        "Invented framework for benchmarking of specific software on any cloud instance type.",
         "Languages: Groovy, Bash, Python",
         "Tools: Jenkins, Grafana, Graphite, InfluxDB, collectd, Telegraf"
       ],
@@ -45,13 +45,14 @@
       "position": "Backend Developer & DevOps Engineer",
       "location": "Moscow, Russia",
       "startDate": "Jul 2019",
-      "endDate": "Present"
+      "endDate": "Fev 2021"
     },
     {
       "highlights": [
-        "Developed connectivity module (bugs fixes, new API features support, new quoting/trading flow implementation)",
-        "Supported and developed new features in all Sales-Trader-Workflow applications using Java, C#, TypeScript",
-        "Prod/SL3 support",
+        "Developed connectivity module (bugs fixes, new API features, new quoting/trading/booking flow implementation). Interaction with markets (Bloomberg, Tradeweb, Bondvision)",
+        "Supported and developed new features in Sales-Trader-Workflow applications using Java, C#, TypeScript.",
+        "Communication with stakeholders (business, traders) regarding solutions design",
+        "Production SL3 and Release support",
         "Languages: Java, TypeScript, C#, SQL",
         "Tools: IntelliJ IDEA, Rider, WebStorm, Maven, Tomcat, Gradle, Jenkins, Teamcity, Bitbucket, Confluence, Jira, Artifactory"
       ],
@@ -63,9 +64,9 @@
     },
     {
       "highlights": [
-        "Developed Java Module for the new Sberbank Reservation System",
-        "Implemented migration protocol to move data from legacy system to the new one",
-        "Developed web application to monitor migration process statistics",
+        "Developed Java Module for the new Sberbank Reservation System.",
+        "Implemented migration protocol to move data from legacy system to the new one.",
+        "Developed web application for monitoring of migration process statistics.",
         "Languages: Java, SQL",
         "Tools: IntelliJ IDEA, Maven, Tomcat, Jenkins, Bitbucket, Confluence, Jira, Nexus"
       ],
@@ -78,10 +79,9 @@
     {
       "highlights": [
         "Written new web pages",
-        "RImplemented new JS functionality (notifications, validations). Improved legacy JS code",
-        "Created web layout with HTML/CSS",
-        "Fixed HTML layout issues. Fully applied CSS sprites for the whole site",
-        "Languages: JavaScript, CSS. HTML",
+        "Implemented new JS functionality (notifications, validations). Improved legacy JS code.",
+        "Fixed HTML layout issues. Fully applied CSS sprites for the whole site.",
+        "Languages: JavaScript, CSS, HTML",
         "Tools: IntelliJ IDEA, AJAX, jQuery, Grunt"
       ],
       "company": "Sitterland.ru",
@@ -97,8 +97,8 @@
       "startDate": "Nov 2013",
       "endDate": "Oct 2014",
       "highlights": [
-        "Researched multidimensional time series to detect breakdowns and series correlation",
-        "Applied different approaches and hypothesis tests for investigation",
+        "Researched multidimensional time series for detection of breakdowns and series correlation.",
+        "Applied different approaches and hypothesis tests for investigation.",
         "Languages: Java, R",
         "Tools: Eclipse, R studio"
       ],
