@@ -9,10 +9,9 @@
   },
   "basics": {
     "name": "Azat Valiev",
-    "phone": "+79150565534",
     "website": "valiev.top",
     "location": {
-      "address": "Moscow, Russia"
+      "address": "Berlin, Germany"
     },
     "email": "azat@valiev.top"
   },
@@ -35,6 +34,31 @@
   "work": [
     {
       "highlights": [
+        "TBC"
+      ],
+      "company": "Deutsche Bank AG",
+      "position": "Teamlead, Senior Java Developer",
+      "location": "Berlin, Germany",
+      "startDate": "Jun 2022",
+      "endDate": "Present"
+    },
+    {
+      "highlights": [
+        "Developed connectivity module (bugs fixes, new API features, new quoting/trading/booking flow implementation). Interaction with markets (Bloomberg, Tradeweb, Bondvision)",
+        "Supported and developed new features in Sales-Trader-Workflow applications using Java, C#, TypeScript.",
+        "Communication with stakeholders (business, traders) regarding solutions design",
+        "Production SL3 and Release support",
+        "Languages: Java, TypeScript, C#, SQL",
+        "Tools: IntelliJ IDEA, Rider, WebStorm, Maven, Tomcat, Gradle, Jenkins, Teamcity, Bitbucket, Confluence, Jira, Artifactory"
+      ],
+      "company": "Deutsche Bank Technology Center",
+      "position": "Senior Java Developer",
+      "location": "Moscow, Russia",
+      "startDate": "Sep 2017",
+      "endDate": "May 2022"
+    },
+    {
+      "highlights": [
         "Developed solution for launching cloud instances in AWS, GCP, OCI.",
         "Implemented system for full monitoring of instances' performance.",
         "Invented framework for benchmarking of specific software on any cloud instance type.",
@@ -46,21 +70,6 @@
       "location": "Moscow, Russia",
       "startDate": "Jul 2019",
       "endDate": "Fev 2021"
-    },
-    {
-      "highlights": [
-        "Developed connectivity module (bugs fixes, new API features, new quoting/trading/booking flow implementation). Interaction with markets (Bloomberg, Tradeweb, Bondvision)",
-        "Supported and developed new features in Sales-Trader-Workflow applications using Java, C#, TypeScript.",
-        "Communication with stakeholders (business, traders) regarding solutions design",
-        "Production SL3 and Release support",
-        "Languages: Java, TypeScript, C#, SQL",
-        "Tools: IntelliJ IDEA, Rider, WebStorm, Maven, Tomcat, Gradle, Jenkins, Teamcity, Bitbucket, Confluence, Jira, Artifactory"
-      ],
-      "company": "Deautche Bank Technology Center",
-      "position": "Java Developer",
-      "location": "Moscow, Russia",
-      "startDate": "Sep 2017",
-      "endDate": "Present"
     },
     {
       "highlights": [
@@ -167,7 +176,7 @@
         "Travis.ci"
       ],
       "name": "Grafeo",
-      "url": "https://grafeo.pro"
+      "url": "https://grafeo.xyz"
     }
   ],
   "awards": [
