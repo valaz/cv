@@ -9,11 +9,11 @@
   },
   "basics": {
     "name": "Azat Valiev",
-    "website": "valiev.top",
+    "website": "valiev.online",
     "location": {
       "address": "Berlin, Germany"
     },
-    "email": "azat@valiev.top"
+    "email": "azat@valiev.online"
   },
   "education": [
     {
@@ -34,7 +34,9 @@
   "work": [
     {
       "highlights": [
-        "TBC"
+        "Sales-Trader-Workflow: Took a leading role in the development of a new feature that allowed trading of instruments not onboarded previously, expanding the system's capabilities and providing greater flexibility.  Collaborated closely with the development team to design and implement the feature, ensuring its seamless integration into the sales-trader workflow applications.",
+        "Reengineering and Migration: Successfully spearheaded the migration of the trading applications to a new booking system, leading the active development and testing efforts. Generated and analyzed comparison reports to ensure the accuracy and consistency of data during the migration process. Actively collaborated with other teams involved in the migration project, fostering effective communication and coordinating efforts for a smooth transition.",
+        "Team Coordination and Leadership: Took ownership of prioritizing the backlog of tasks and features, considering business requirements and stakeholder feedback. Collaborated with the development team to plan and execute sprints effectively, ensuring timely delivery of high-quality software solutions. Effectively interacted with team members, providing guidance, support, and mentorship to ensure their professional growth and productivity."
       ],
       "company": "Deutsche Bank AG",
       "position": "Teamlead, Senior Java Developer",
@@ -44,10 +46,10 @@
     },
     {
       "highlights": [
-        "Developed connectivity module (bugs fixes, new API features, new quoting/trading/booking flow implementation). Interaction with markets (Bloomberg, Tradeweb, Bondvision)",
-        "Supported and developed new features in Sales-Trader-Workflow applications using Java, C#, TypeScript.",
-        "Communication with stakeholders (business, traders) regarding solutions design",
-        "Production SL3 and Release support",
+        "Electronic Trading: Played a key role in the development of a robust connectivity module, addressing bug fixes, implementing new API features, and enhancing quoting, trading, and booking flows. Collaborated with market platforms such as Bloomberg, Tradeweb, and Bondvision to ensure seamless integration and facilitate efficient communication.",
+        "Sales-Trader-Workflow Application Support and Enhancement: Provided valuable support and contributed to the enhancement of Sales-Trader-Workflow applications using Java, C#, and TypeScript. Collaborated closely with stakeholders, including business teams and traders, to understand requirements and implement effective solutions.",
+        "Effectively communicated with stakeholders, including business teams and traders, to understand solution requirements and ensure alignment with their needs.",
+        "Production SL3 and Release Support: Assisted in the support of the production SL3 environment, ensuring system stability and optimal performance. Contributed to the release process by coordinating deployments and providing support during the release cycles.",
         "Languages: Java, TypeScript, C#, SQL",
         "Tools: IntelliJ IDEA, Rider, WebStorm, Maven, Tomcat, Gradle, Jenkins, Teamcity, Bitbucket, Confluence, Jira, Artifactory"
       ],
@@ -59,9 +61,9 @@
     },
     {
       "highlights": [
-        "Developed solution for launching cloud instances in AWS, GCP, OCI.",
-        "Implemented system for full monitoring of instances' performance.",
-        "Invented framework for benchmarking of specific software on any cloud instance type.",
+        "Cloud Instance Deployment Solution: Designed and developed a comprehensive solution for launching cloud instances on major platforms such as AWS, GCP, and OCI. This involved creating automated processes to streamline instance provisioning and configuration.",
+        "Performance Monitoring System: Implemented a robust system for monitoring the performance of cloud instances, ensuring optimal resource utilization and identifying potential bottlenecks. This involved collecting and analyzing performance metrics to proactively address issues and optimize system performance.",
+        "Benchmarking Framework: Pioneered the development of a versatile benchmarking framework capable of evaluating the performance of specific software on various cloud instance types. This framework enabled accurate performance comparisons, aiding in informed decision-making for infrastructure optimization and resource allocation.",
         "Languages: Groovy, Bash, Python",
         "Tools: Jenkins, Grafana, Graphite, InfluxDB, collectd, Telegraf"
       ],
@@ -73,9 +75,9 @@
     },
     {
       "highlights": [
-        "Developed Java Module for the new Sberbank Reservation System.",
-        "Implemented migration protocol to move data from legacy system to the new one.",
-        "Developed web application for monitoring of migration process statistics.",
+        "Played an integral role in developing a Java module for the new Sberbank Reservation System. This involved writing efficient and reliable code to meet the system's functional requirements and enhance its overall performance.",
+        "Successfully implemented a migration protocol to facilitate the seamless transfer of data from the legacy system to the new reservation system. This involved designing and implementing efficient data migration processes to ensure data integrity and minimize downtime.",
+        "Developed a web application for monitoring the migration process statistics, providing stakeholders with real-time insights into the progress and status of the data migration. This application enabled efficient tracking and reporting of critical migration metrics.",
         "Languages: Java, SQL",
         "Tools: IntelliJ IDEA, Maven, Tomcat, Jenkins, Bitbucket, Confluence, Jira, Nexus"
       ],
@@ -87,9 +89,9 @@
     },
     {
       "highlights": [
-        "Written new web pages",
-        "Implemented new JS functionality (notifications, validations). Improved legacy JS code.",
-        "Fixed HTML layout issues. Fully applied CSS sprites for the whole site.",
+        "Successfully designed and implemented new web pages, ensuring a visually appealing and user-friendly experience. This involved translating design mockups into responsive HTML and CSS code.",
+        "Implemented new JavaScript functionalities, such as notifications and form validations, to enhance the interactivity and usability of web applications. Additionally, improved existing JavaScript code to optimize performance and maintainability.",
+        "Resolved HTML layout issues, ensuring consistent and accurate rendering across different browsers and devices. Applied CSS sprites throughout the entire site, improving load times and optimizing the performance of images.",
         "Languages: JavaScript, CSS, HTML",
         "Tools: IntelliJ IDEA, AJAX, jQuery, Grunt"
       ],
@@ -106,8 +108,8 @@
       "startDate": "Nov 2013",
       "endDate": "Oct 2014",
       "highlights": [
-        "Researched multidimensional time series for detection of breakdowns and series correlation.",
-        "Applied different approaches and hypothesis tests for investigation.",
+        "Research on Multidimensional Time Series: Conducted in-depth research on multidimensional time series analysis, focusing on the detection of breakdowns and correlations within the series. Explored various approaches and hypothesis tests to investigate and analyze the time series data.",
+        "Application of Analytical Techniques: Applied different analytical approaches and hypothesis tests to evaluate the time series data, aiming to identify breakdown patterns and assess series correlations. Utilized statistical methods and tools to draw meaningful insights from the data and contribute to the overall research objectives.",
         "Languages: Java, R",
         "Tools: Eclipse, R studio"
       ],
@@ -172,11 +174,11 @@
         "Spring Boot",
         "React JS",
         "SonarCloud",
-        "Dokku",
-        "Travis.ci"
+        "Docker",
+        "Githab actions"
       ],
       "name": "Grafeo",
-      "url": "https://grafeo.xyz"
+      "url": "https://grafeo.app"
     }
   ],
   "awards": [
