@@ -130,9 +130,14 @@ h1
 	font-size:1.75em;
 }
 
+.inner em
+{
+	font-size:1.25em;
+}
+
 .inner p
 {
-	color:rgba(0,0,0,.3);
+	color:rgba(0,0,0,.5);
 	margin: 18px 0 9px 0;
 }
 
