@@ -1,0 +1,204 @@
+{
+  "selectedTemplate": 9,
+  "headings": {
+    "skills": "Skills",
+    "projects": "Projects",
+    "awards": "",
+    "education": "Education",
+    "work": "Work Expereince"
+  },
+  "basics": {
+    "name": "Azat Valiev",
+    "website": "valiev.one",
+    "location": {
+      "address": "Berlin, Germany"
+    },
+    "email": "azat@valiev.one"
+  },
+  "education": [
+    {
+      "institution": "Moscow Institute of Physics and Technology",
+      "startDate": "Sep 2010",
+      "endDate": "Jun 2014",
+      "studyType": "Bachelor of applied mathematics and physics",
+      "location": "Dolgoprudny, Russia"
+    },
+    {
+      "institution": "Moscow Institute of Physics and Technology",
+      "location": "Dolgoprudny, Russia",
+      "studyType": "Master of banking information technologies",
+      "startDate": "Sep 2014",
+      "endDate": "Jun 2016"
+    }
+  ],
+  "work": [
+    {
+      "highlights": [
+        "Leading a feature team in the Rates and Credit department, responsible for all Global Emerging Markets (GEM) deliveries. Driving strategic initiatives, architecture, and development efforts to expand the bank's trading capabilities.",
+        "Stakeholder & Delivery Management: Partner with business stakeholders across Sydney, Singapore, India, London, and New York to define requirements, design solutions, and oversee implementation.",
+        "Quoting, Trading & Booking Solutions: Architect and develop scalable systems that enable new markets, enhance trading flows, and support a broader range of GEM instruments.",
+        "Technical Leadership & Mentorship: Guide team members in design, implementation, and best practices while fostering a high-performance culture.",
+        "Code Quality & Reviews: Regularly review pull requests from teammates and other teams within our department, ensuring adherence to high coding standards.",
+        "Cross-Team Collaboration: Work closely with market support teams and other departments to align on integration strategies and ensure seamless system interoperability."
+      ],
+      "company": "Deutsche Bank AG",
+      "position": "Teamlead, Senior Java Developer",
+      "location": "Berlin, Germany",
+      "startDate": "Jun 2022",
+      "endDate": "Present"
+    },
+    {
+      "highlights": [
+        "Electronic Trading: Played a key role in the development of a robust connectivity module, addressing bug fixes, implementing new API features, and enhancing quoting, trading, and booking flows. Collaborated with market platforms such as Bloomberg, Tradeweb, and Bondvision to ensure seamless integration and facilitate efficient communication.",
+        "Sales-Trader-Workflow Application Support and Enhancement: Provided valuable support and contributed to the enhancement of Sales-Trader-Workflow applications using Java, C#, and TypeScript. Collaborated closely with stakeholders, including business teams and traders, to understand requirements and implement effective solutions.",
+        "Effectively communicated with stakeholders, including business teams and traders, to understand solution requirements and ensure alignment with their needs.",
+        "Production SL3 and Release Support: Assisted in the support of the production SL3 environment, ensuring system stability and optimal performance. Contributed to the release process by coordinating deployments and providing support during the release cycles.",
+        "Languages: Java, TypeScript, C#, SQL",
+        "Tools: IntelliJ IDEA, Rider, WebStorm, Maven, Tomcat, Gradle, Jenkins, Teamcity, Bitbucket, Confluence, Jira, Artifactory"
+      ],
+      "company": "Deutsche Bank Technology Center",
+      "position": "Senior Java Developer",
+      "location": "Moscow, Russia",
+      "startDate": "Sep 2017",
+      "endDate": "May 2022"
+    },
+    {
+      "highlights": [
+        "Cloud Instance Deployment Solution: Designed and developed a comprehensive solution for launching cloud instances on major platforms such as AWS, GCP, and OCI. This involved creating automated processes to streamline instance provisioning and configuration.",
+        "Performance Monitoring System: Implemented a robust system for monitoring the performance of cloud instances, ensuring optimal resource utilization and identifying potential bottlenecks. This involved collecting and analyzing performance metrics to proactively address issues and optimize system performance.",
+        "Benchmarking Framework: Pioneered the development of a versatile benchmarking framework capable of evaluating the performance of specific software on various cloud instance types. This framework enabled accurate performance comparisons, aiding in informed decision-making for infrastructure optimization and resource allocation.",
+        "Languages: Groovy, Bash, Python",
+        "Tools: Jenkins, Grafana, Graphite, InfluxDB, collectd, Telegraf"
+      ],
+      "company": "RocketCompute",
+      "position": "Backend Developer & DevOps Engineer",
+      "location": "Moscow, Russia",
+      "startDate": "Jul 2019",
+      "endDate": "Fev 2021"
+    },
+    {
+      "highlights": [
+        "Played an integral role in developing a Java module for the new Sberbank Reservation System. This involved writing efficient and reliable code to meet the system's functional requirements and enhance its overall performance.",
+        "Successfully implemented a migration protocol to facilitate the seamless transfer of data from the legacy system to the new reservation system. This involved designing and implementing efficient data migration processes to ensure data integrity and minimize downtime.",
+        "Developed a web application for monitoring the migration process statistics, providing stakeholders with real-time insights into the progress and status of the data migration. This application enabled efficient tracking and reporting of critical migration metrics.",
+        "Languages: Java, SQL",
+        "Tools: IntelliJ IDEA, Maven, Tomcat, Jenkins, Bitbucket, Confluence, Jira, Nexus"
+      ],
+      "company": "Sberbank Technologies",
+      "position": "Junior software engineer",
+      "location": "Moscow, Russia",
+      "startDate": "Oct 2014",
+      "endDate": "Aug 2017"
+    },
+    {
+      "highlights": [
+        "Successfully designed and implemented new web pages, ensuring a visually appealing and user-friendly experience. This involved translating design mockups into responsive HTML and CSS code.",
+        "Implemented new JavaScript functionalities, such as notifications and form validations, to enhance the interactivity and usability of web applications. Additionally, improved existing JavaScript code to optimize performance and maintainability.",
+        "Resolved HTML layout issues, ensuring consistent and accurate rendering across different browsers and devices. Applied CSS sprites throughout the entire site, improving load times and optimizing the performance of images.",
+        "Languages: JavaScript, CSS, HTML",
+        "Tools: IntelliJ IDEA, AJAX, jQuery, Grunt"
+      ],
+      "company": "Sitterland.ru",
+      "position": "Remote frontend developer",
+      "location": "Moscow, Russia",
+      "startDate": "Jul 2016",
+      "endDate": "Oct 2016"
+    },
+    {
+      "location": "Moscow, Russia",
+      "position": "Intern",
+      "website": "",
+      "startDate": "Nov 2013",
+      "endDate": "Oct 2014",
+      "highlights": [
+        "Research on Multidimensional Time Series: Conducted in-depth research on multidimensional time series analysis, focusing on the detection of breakdowns and correlations within the series. Explored various approaches and hypothesis tests to investigate and analyze the time series data.",
+        "Application of Analytical Techniques: Applied different analytical approaches and hypothesis tests to evaluate the time series data, aiming to identify breakdown patterns and assess series correlations. Utilized statistical methods and tools to draw meaningful insights from the data and contribute to the overall research objectives.",
+        "Languages: Java, R",
+        "Tools: Eclipse, R studio"
+      ],
+      "company": "Yandex Data Factory"
+    }
+  ],
+  "skills": [
+    {
+      "level": "",
+      "keywords": [
+        "Java",
+        "Spring",
+        "SQL",
+        "R",
+        "Bash",
+        "Groovy"
+      ],
+      "name": "Backend"
+    },
+    {
+      "keywords": [
+        "Javascript",
+        "CSS",
+        "HTML",
+        "ReactJS",
+        "npm"
+      ],
+      "name": "Frontend"
+    },
+    {
+      "keywords": [
+        "Flutter",
+        "Dart"
+      ],
+      "name": "Mobile"
+    },
+    {
+      "keywords": [
+        "Maven",
+        "NPM",
+        "Tomcat",
+        "Teamcity & Jenkins",
+        "Artifactory",
+        "Confluence",
+        "Jira",
+        "AWS/GCP/OCI",
+        "Grafana",
+        "Grafana",
+        "Graphite",
+        "InfluxDB",
+        "collectd",
+        "Telegraf"
+      ],
+      "name": "Tools"
+    }
+  ],
+  "projects": [
+    {
+      "description": "Web application for creating progress charts and controlling habits evolution.",
+      "keywords": [
+        "Java",
+        "Spring Boot",
+        "React JS",
+        "SonarCloud",
+        "Docker",
+        "Githab actions"
+      ],
+      "name": "Grafeo",
+      "url": "https://grafeo.app"
+    }
+  ],
+  "awards": [
+    {
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "education",
+    "work",
+    "skills",
+    "projects",
+    "awards"
+  ]
+}
