@@ -126,7 +126,6 @@
         "Java",
         "Spring",
         "SQL",
-        "R",
         "Bash",
         "Groovy"
       ],
@@ -154,17 +153,18 @@
         "Maven",
         "NPM",
         "Tomcat",
-        "Teamcity & Jenkins",
+        "Teamcity",
         "Artifactory",
         "Confluence",
         "Jira",
         "AWS/GCP/OCI",
         "Grafana",
-        "Grafana",
-        "Graphite",
+        null,
+        null,
         "InfluxDB",
-        "collectd",
-        "Telegraf"
+        "Telegraf",
+        "Prometheus",
+        "Geneos"
       ],
       "name": "Tools"
     }
